@@ -1,0 +1,35 @@
+[
+  {
+    "id": "articulo-1",
+    "titulo": "5 Piezas de Atrezzo Imprescindibles para tu Cortometraje de Época",
+    "slug": "5-piezas-atrezzo-cortometraje-epoca",
+    "autor": "Atrezzo & Tesoros Team",
+    "fecha": "15 de Junio, 2025",
+    "categoria": "Cine & Atrezzo",
+    "imagen_url": "./img/blog-article1.jpg",
+    "imagen_alt": "Antigua máquina de escribir en un set de cine, atrezzo",
+    "extracto": "Descubre cómo seleccionar el atrezzo perfecto para transportar a tu audiencia a otra era. Consejos y ejemplos prácticos para dar autenticidad a tu producción."
+  },
+  {
+    "id": "articulo-2",
+    "titulo": "Transforma Tu Hogar con Mobiliario de Segunda Mano: Guía de Estilo",
+    "slug": "transforma-hogar-mobiliario-segunda-mano",
+    "autor": "Atrezzo & Tesoros Team",
+    "fecha": "10 de Junio, 2025",
+    "categoria": "Decoración & Sostenibilidad",
+    "imagen_url": "./img/blog-article2.jpg",
+    "imagen_alt": "Muebles de segunda mano decorando un salón moderno",
+    "extracto": "Dar una segunda vida a los muebles es tendencia. Aprende a integrar piezas vintage en un ambiente moderno y funcional para crear espacios únicos."
+  },
+  {
+    "id": "articulo-3",
+    "titulo": "La Magia de los Pequeños Detalles: Atrezzo para Eventos Inolvidables",
+    "slug": "magia-pequenos-detalles-atrezzo-eventos",
+    "autor": "Atrezzo & Tesoros Team",
+    "fecha": "5 de Junio, 2025",
+    "categoria": "Eventos & Diseño",
+    "imagen_url": "./img/blog-article3.jpg",
+    "imagen_alt": "Fotografía de un evento decorado con atrezzo peculiar",
+    "extracto": "Desde bodas temáticas hasta lanzamientos de productos, cómo el atrezzo adecuado eleva cualquier celebración y la convierte en una experiencia única y memorable."
+  }
+]
