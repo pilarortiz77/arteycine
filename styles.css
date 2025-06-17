@@ -1,0 +1,41 @@
+/*
+ * styles.css
+ * Descripción: Archivo CSS para estilos personalizados y globales.
+ * NOTA: Con TailwindCSS CDN, la mayoría de los estilos se aplican directamente en el HTML
+ * mediante clases de utilidad. Este archivo está aquí para cualquier estilo
+ * global o personalizado que no pueda ser gestionado por Tailwind de forma sencilla.
+ */
+
+/*
+ * Importación de la fuente Inter de Google Fonts:
+ * Asegura que esta fuente se cargue si no se hace directamente en el HTML o en la configuración de Tailwind JIT.
+ */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+/*
+ * Reglas CSS básicas y globales (pueden ser opcionales si Tailwind ya las maneja):
+ * Estas reglas se aseguran de que la fuente 'Inter' sea la predeterminada para todo el cuerpo
+ * y pueden incluir resets CSS si se consideran necesarios.
+ */
+body {
+    font-family: 'Inter', sans-serif;
+    /* Un color de fondo muy sutil para todo el cuerpo, a menudo ya manejado por clases de Tailwind en el body tag */
+    /* background-color: #f8fafc; */
+}
+
+/*
+ * Puedes añadir aquí estilos personalizados para clases no-Tailwind si los necesitas.
+ * Ejemplo:
+ * .custom-button {
+ * padding: 1rem 2rem;
+ * border-radius: 0.5rem;
+ * background-color: #3b82f6;
+ * color: white;
+ * font-weight: bold;
+ * }
+ *
+ * O para overrides muy específicos que Tailwind no permite fácilmente:
+ * .some-element-with-tailwind-classes {
+ * !important; (usar con precaución)
+ * }
+ */
